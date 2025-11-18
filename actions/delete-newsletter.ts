@@ -6,6 +6,7 @@ import { deleteNewsletter as deleteNewsletterDb } from "./newsletter";
 
 // ============================================
 // DELETE NEWSLETTER ACTION
+
 // ============================================
 
 /**
